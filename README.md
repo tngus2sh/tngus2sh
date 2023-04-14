@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=tngus2sh&fontSize=90&fontAlignY=35)
   
-  #### 👋: Welcome my github profile !
+  #### 👋: Welcome to my github profile !
   
   <br/>
   <br/>
@@ -36,5 +36,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">&nbsp
 
+    
+  ### 🥇 Baekjoon Solved Rank 🥇
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/)
+    
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tngus2sh&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
