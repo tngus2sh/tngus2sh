@@ -45,7 +45,7 @@
     
  #### 🚀 Follow Me 🚀
     
-  <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white/></a>
+  <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://pie8.tistory.com"/></a>
   <a href="mailto:ssuhyeon98@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=white&link=mailto:ssuhyeon98@gmail.com"/></a>
     
 </div>
