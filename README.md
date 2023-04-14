@@ -5,7 +5,6 @@
   #### 👋: Welcome to my github profile !
   
   <br/>
-  <br/>
   
   #### 🛠️ Tech Stack 🛠️
   <p align="center">
@@ -35,11 +34,17 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">&nbsp
-
     
-  ### 🥇 Baekjoon Solved Rank 🥇
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/)
+  <br/>
     
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tngus2sh&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  #### 🥇 Baekjoon Solved Rank 🥇
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ssuhyeon98&theme=warm)
   
+ <br/>
+    
+ #### ✏️ Study Log ✏️
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tngus2sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+ <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+    
 </div>
