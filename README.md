@@ -36,8 +36,9 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">&nbsp
     
   <br/>
+  <br/>
     
-  #### 🥇 Baekjoon Solved Rank 🥇
+  #### 🏅 Baekjoon Solved Rank 🏅
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ssuhyeon98&theme=warm)
   
