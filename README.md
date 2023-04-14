@@ -42,9 +42,8 @@
   
  <br/>
     
- #### ✏️ Study Log ✏️
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tngus2sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
- <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+ #### 🚀 Follow Me 🚀
+ <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Vimeo&logoColor=white></a>&nbsp
+<a href="mailto:ssuhyeon98@gmail.com"><img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=flat-square&logo=Email&logoColor=white&link=mailto:ssuhyeon98@gmail.com"/></a>
     
 </div>
