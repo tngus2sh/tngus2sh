@@ -49,3 +49,5 @@
   <a href="mailto:ssuhyeon98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssuhyeon98@gmail.com"/></a>
     
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
