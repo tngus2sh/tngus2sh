@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=tngus2sh&fontSize=90&fontAlignY=35)
   
-  #### 👋: Welcome to my github profile !
+  #### 👋: Welcome to tngus2sh github profile !
   
   <br/>
   
