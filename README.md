@@ -49,8 +49,7 @@
  <br/>
     
  #### 🚀 Follow Me 🚀
-    
-  <a href="https://pie8.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pie8.tistory.com"/></a>
+  <a href="https://velog.io/@tngus2sh/posts"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tngus2sh/posts"/></a>
   <a href="mailto:ssuhyeon98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssuhyeon98@gmail.com"/></a>
     
 </div>
