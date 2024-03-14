@@ -44,7 +44,7 @@
     
   #### 🏅 Baekjoon Solved Rank 🏅
     
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ssuhyeon98&theme=warm)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/)
   
  <br/>
     
