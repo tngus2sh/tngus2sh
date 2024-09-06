@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=tngus2sh&fontSize=90&fontAlignY=35)
   
-  #### 👋: Welcome to tngus2sh github profile !
+  #### 👋: Welcome to my github profile !
   
   <br/>
   
@@ -40,17 +40,11 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
   <br/>
   <br/>
-    
-  #### 🏅 Baekjoon Solved Rank 🏅
-    
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssuhyeon98)](https://solved.ac/ssuhyeon98/)
   
  <br/>
     
  #### 🚀 Follow Me 🚀
   <a href="https://velog.io/@tngus2sh/posts"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tngus2sh/posts"/></a>
-  <a href="mailto:ssuhyeon98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssuhyeon98@gmail.com"/></a>
-    
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
